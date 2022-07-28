@@ -1,4 +1,4 @@
-# flappy-bird-assets
+# Flappy-Bird-Clone game using PyGame module with python
 
 
 ![6o6mmj](https://user-images.githubusercontent.com/85767585/181522182-9a249c27-b302-48d7-a94b-1a47dbc8b1fe.gif)
