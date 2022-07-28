@@ -1,3 +1,2 @@
 # flappy-bird-assets
-
-<a href="https://imgflip.com/gif/6o6lgw"><img src="https://i.imgflip.com/gif/6o6lgw.gif" title="made at imgflip.com"/></a>
+![6o6l7e](https://user-images.githubusercontent.com/85767585/181521223-828b0dfd-f258-4c10-8b4a-c27e0209cf09.gif)
